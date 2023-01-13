@@ -1,0 +1,32 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+#borderimg {
+   border-style: dashed solid;
+   padding: 3%;
+   margin: 1%;
+   height: 5px;
+   width: 5px;
+   border-color: rgb(5, 170, 32);
+}
+#borderimg1 {
+    border-style: dashed solid;
+    padding: 3%;
+    margin: 1%;
+    height: 5px;
+    width: 5px;
+    border-color: rgb(10, 40, 207);
+ }
+ #borderimg2 {
+    border-style: dashed solid;
+    padding: 3%;
+    margin: 1%;
+    height: 5px;
+    width: 5px;
+    border-color: rgb(216, 6, 6);
+ }
+ header {
+    padding: 1%;
+    margin: 1%;
+ }
